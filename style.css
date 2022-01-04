@@ -26,14 +26,13 @@ p {
 }
 
 .half_width {
-	width: 40%;
+	width: 35%;
 	float: left;
-	margin-right: 3%;
-	padding-left: 4%;
+	padding-left: 10%;
 }
 
 .half_width img {
-	width: 90%;
+	width: 100%;
 }
 
 .link-button {
@@ -47,7 +46,7 @@ p {
 }
 
 .link-button:hover {
-	background-image: linear-gradient(Orange, Tomato);
+	background-image: linear-gradient(Tomato, orange);
 }
 
 .top-banner {
